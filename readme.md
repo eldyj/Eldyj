@@ -1,5 +1,5 @@
 
-//web
+//web [lower than junior]
 - [x] html <ul><li>markdown</li></ul>
 - [x] css <ul><li>scss</li><li>less</li></ul>
 - [x] js
