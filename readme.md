@@ -10,7 +10,7 @@
 - [x] php
 
 //os
-- [x] linux <ul><li>Fedora</li></ul>
+- [x] linux <ul><li>Ubuntu Sway</li></ul>
 - [x] android <ul><li>Mobile `[8]`</li><li>Prime Os `[11]`</li></ul>
 - [ ] windows <ul><li>\*BRUH\*</li></ul>
 
