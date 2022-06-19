@@ -1,6 +1,6 @@
 //web <sub>lower than junior</sub>
-- [x] html <ul><li>markdown</li></ul>
-- [x] css <ul><li>scss</li><li>less</li></ul>
+- [x] html <ul><li>jekyll</li><li>pug</li><li>markdown</li></ul>
+- [x] css <ul><li>sass</li></ul>
 - [x] js
 - [ ] jquery
 
