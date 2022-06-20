@@ -10,6 +10,7 @@
 - [x] php
 
 ```console
+eldyj@sway:~$ neofetch
             .-/+oossssoo+/-.               OS : Ubuntu Sway Remix 
         `:+ssssssssssssssssss+:`           WM : sway 
       -+ssssssssssssssssssyyssss+-         Terminal : tilix 
