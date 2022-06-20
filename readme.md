@@ -9,11 +9,26 @@
 - [x] python
 - [x] php
 
-//os
-- [x] linux <ul><li>Ubuntu Sway</li></ul>
-- [x] android <ul><li>Mobile `[8]`</li><li>Prime Os `[11]`</li></ul>
-- [ ] windows <ul><li>\*BRUH\*</li></ul>
+```console
+            .-/+oossssoo+/-.               OS : Ubuntu Sway Remix 
+        `:+ssssssssssssssssss+:`           WM : sway 
+      -+ssssssssssssssssssyyssss+-         Terminal : tilix 
+    .ossssssssssssssssssdMMMNysssso.       CPU : Intel i5-3340M 
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      GPU : AMD ATI Radeon HD 7570m 
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Memory : 3,49GiB / 15,56GiB 
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.
++sssshhhyNMMNyssssssssssssyNMMMysssssss+
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso
++sssshhhyNMMNyssssssssssssyNMMMysssssss+
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
+  +sssssssssdmydMMMMMMMMddddyssssssss+
+   /ssssssssssshdmNNNNmyNMMMMhssssss/
+    .ossssssssssssssssssdMMMNysssso.
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
 
-//My pc
-- [ ] PC
-- [x] Laptop<ul><li>Intel <sub>core i5</sub></li><li>amd <sub>hd 7570</sub></li><li>16 gb <sub>RAM</sub></li></ul>
+```
