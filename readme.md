@@ -1,7 +1,7 @@
 //web <sub>lower than junior</sub>
 - [x] html <ul><li>jekyll</li><li>pug</li></ul>
-- [x] css <ul><li>sass</li></ul>
-- [x] js
+- [x] css <ul><li>sass</li><li>stylus</li></ul>
+- [x] js <ul><li>coffee script</li></ul>
 - [ ] jquery
 
 //noob at
