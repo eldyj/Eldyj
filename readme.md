@@ -1,1 +1,1 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eldyj&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&locale=ru)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldyj&exclude_repo=Eldyj)
