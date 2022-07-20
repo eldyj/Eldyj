@@ -1,1 +1,1 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eldyj&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&background=DD2727&border=DD2727&stroke=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eldyj&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&locale=ru)](https://git.io/streak-stats)
