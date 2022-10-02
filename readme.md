@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eldyj&exclude_repo=Eldyj&langs_count=10&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eldyj&langs_count=10&layout=compact&theme=dark)
 ```yaml
   _____       OS: Debian
  /  __ \      Kernel: 5.19.0-1
