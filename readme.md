@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eldyj&langs_count=10&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eldyj&langs_count=10&layout=compact)
 ```yaml
   _____       OS: Debian
  /  __ \      Kernel: 5.19.0-1
@@ -7,4 +7,4 @@
 -_            CPU: Intel i5-3340M
   --_         GPU: amd hd 7570m
 ```
-<!---->
+<!--&theme=dark-->
