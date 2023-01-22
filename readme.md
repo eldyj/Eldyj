@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eldyj&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eldyj&langs_count=10&theme=dark)
 ```yaml
 OS: Fedora
 Kernel: 6.0.7
@@ -7,4 +7,3 @@ WM: Awesome
 CPU: Intel i5-3340M
 GPU: amd hd 7570m
 ```
-<!--&theme=dark-->
