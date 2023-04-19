@@ -2,9 +2,9 @@
 <!-- &hide_progress=true -->
 ```yaml
 OS: Debian sid
-Kernel: 5.19.0
+Kernel: 6.1.0
 Shell: ksh
-WM: i3
+WM: dwm
 CPU: Intel i5-3340M
 GPU: amd hd 7570m
 ```
