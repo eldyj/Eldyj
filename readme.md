@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eldyj&langs_count=6&theme=dark&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eldyj&langs_count=10&theme=dark&layout=compact)
 <!-- &hide_progress=true -->
 ```yaml
 OS: Debian sid
